@@ -1,10 +1,12 @@
 # QGIS tutorial
-Want to get started with QGIS? You're in the right place! 
+Want to get started with QGIS, but have no clue what to do?? You're in the right place! 
 
-Originally created for a QGIS workshop, but the materials are open for everyone to use/copy/improve.
+Originally created for a QGIS workshop, but the materials are open for everyone to use/copy/improve.  
+
+There are three basic tasks with instructions and sample data in the sample_data folder.
 
 ## Download QGIS
-You can find QGIS installers for your OS here:  
+Before you can find QGIS installers for your OS here:  
 https://qgis.org/en/site/forusers/download.html
 
 ## Download data
