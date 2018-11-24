@@ -37,6 +37,9 @@ https://a.tile.openstreetmap.org/{z}/{x}/{y}.png
 Does your data look ugly and incorrect in EPSG:4326? Check this site for an optimal projection:  
 http://projectionwizard.org/
 
+Learn how to do animations using the Time Manager plugin:  
+https://medium.com/@tjukanov/geogiffery-in-a-nutshell-introduction-to-qgis-time-manager-31bb79f2af19
+
 ## WTF is this GIS thing?
 Mapschool.io  
 https://mapschool.io/
