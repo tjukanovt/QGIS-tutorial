@@ -3,7 +3,7 @@ Want to get started with QGIS, but have no clue what to do?? You're in the right
 
 Originally created for a QGIS workshop, but the materials are open for everyone to use/copy/improve.  
 
-There are three basic tasks with instructions and sample data in the sample_data folder.
+There are three basic tasks with instructions and sample data in the sample_data folder. They do not contain step by step instructions for each, but will give you the necessary input data and a brief description of steps you need to take to do the tasks.
 
 ## Download QGIS
 Before you can find QGIS installers for your OS here:  
