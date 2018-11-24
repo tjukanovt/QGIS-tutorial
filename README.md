@@ -26,6 +26,10 @@ https://download.geofabrik.de/
 Data for Amsterdam can be found here:  
 https://maps.amsterdam.nl/open_geodata/
 
+## Other useful materials  
+Does your data look ugly and incorrect in EPSG:4326. Check this site for an optimal projection:  
+http://projectionwizard.org/
+
 ## WTF is this GIS thing?
 Mapschool.io  
 https://mapschool.io/
