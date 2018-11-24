@@ -27,7 +27,10 @@ Data for Amsterdam can be found here:
 https://maps.amsterdam.nl/open_geodata/
 
 ## Other useful materials  
-Does your data look ugly and incorrect in EPSG:4326. Check this site for an optimal projection:  
+Need a background map? Add an XYZ tile layer from OpenStreetMap and you will always have background maps at hand. Add the following URL in the Browser dialog to the XYZ tiles layer:  
+https://a.tile.openstreetmap.org/{z}/{x}/{y}.png
+
+Does your data look ugly and incorrect in EPSG:4326? Check this site for an optimal projection:  
 http://projectionwizard.org/
 
 ## WTF is this GIS thing?
