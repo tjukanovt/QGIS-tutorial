@@ -9,6 +9,10 @@ There are three basic tasks with instructions and sample data in the sample_data
 Before you can find QGIS installers for your OS here:  
 https://qgis.org/en/site/forusers/download.html
 
+## Learn the basics
+Excellent source of basic QGIS tutorials. Made for versions 2.x, but works mostly also with newer versions:  
+https://www.qgistutorials.com/en/
+
 ## Download data
 Basic data for countries, borders and topography can be found from Natural Earth:  
 https://www.naturalearthdata.com/
