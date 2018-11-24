@@ -10,6 +10,10 @@ Before you can find QGIS installers for your OS here:
 https://qgis.org/en/site/forusers/download.html
 
 ## Learn the basics
+
+Learn the absolute basics with this excellent video:  
+[![Learn the absolute basics with this excellent video](https://i.ytimg.com/an_webp/aLmMovuydqI/mqdefault_6s.webp?du=3000&sqp=CMD75d8F&rs=AOn4CLA1xIBiKO2lsGrO0JiE9fy_pbVKkg)](https://www.youtube.com/watch?v=aLmMovuydqI "QGIS - for Absolute Beginners - Click to Watch!")
+
 Excellent source of basic QGIS tutorials. Made for versions 2.x, but works mostly also with newer versions:  
 https://www.qgistutorials.com/en/
 
