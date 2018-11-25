@@ -24,7 +24,7 @@ https://www.naturalearthdata.com/
 Free GIS datasets (What a name, eh?):  
 https://freegisdata.rtwilson.com/
 
-OpenStreetMap can be downloaded using a QGIS plugin of your choice or for example from GeoFabrik:  
+OpenStreetMap can be downloaded using a QGIS plugin of your choice (e.g. QuickOSM) or for example from GeoFabrik:  
 https://download.geofabrik.de/
 
 Data for Amsterdam can be found here:  
