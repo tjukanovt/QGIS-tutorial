@@ -41,11 +41,14 @@ Need a background map? Add an XYZ tile layer from OpenStreetMap and you will alw
 https://a.tile.openstreetmap.org/{z}/{x}/{y}.png
 
 Does your data look ugly and incorrect in EPSG:4326? Check this site for an optimal projection:  
-http://projectionwizard.org/
+http://projectionwizard.org/  
 
-Learn how to do animations using the Time Manager plugin:  
+Watch this video if you want to get a better idea about the possibilities of data analysis and visualisation in QGIS:  
+https://www.youtube.com/watch?v=a0cVLzbEOig
+
+For a more advanced user, here's a blog explaining how to do animations using the Time Manager plugin:  
 https://medium.com/@tjukanov/geogiffery-in-a-nutshell-introduction-to-qgis-time-manager-31bb79f2af19
 
-## WTF is this GIS thing?
+## Ok, but WTF is this GIS thing?
 Mapschool.io  
 https://mapschool.io/
