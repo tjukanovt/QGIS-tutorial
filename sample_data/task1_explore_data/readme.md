@@ -3,7 +3,4 @@ Purpose of this task is to get familiar with basic functionalities of QGIS and t
 
 You can find instructions for basic vector styling [here](https://www.qgistutorials.com/en/docs/basic_vector_styling.html).
 
-What is a Shapefile and what are the other files that come with it?  
-
-[Mapschool.io](https://mapschool.io/) describes Shapefile as follows:  
-The most established vector format is the Shapefile - a simple, file-based format that awkwardly spreads the necessary data between four separate files - .shp (where actual geometry data resides), .prj (a string describing the projection used), .shx (an index enabling faster searches), and .dbf (a database file containing all the data associated with a geometry of the .shp file). Most of these files are binary data, so opening them in a text editor won’t show anything accessible, apart from the .prj file, which defines the projection in plain text. The .dbf database file can be read from LibreOffice Calc because its format is derived from an old database specification. However, the old database specification limits the attribute data you can store in a shapefile. For example: the size of the .dbf can’t exceed 2 GB, field names can’t contain spaces and can’t exceed 10 characters, NULL values are not supported, nor are many special characters, etc.
+What is a Shapefile and what are the other files that come with it? It's probably the most established vector format in GIS. It has some obvious problems (size limit, NULL handling etc.), but it is very important to know how to handle themm. You can read more about it from [Mapschool.io](https://mapschool.io/).
