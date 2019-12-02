@@ -39,9 +39,6 @@ https://download.geofabrik.de/
 Need to do some geocoding? Check this site also for other useful materials:  
 https://github.com/toddmotto/public-apis#geocoding
 
-Need a background map? Add an XYZ tile layer from OpenStreetMap and you will always have background maps at hand. Add the following URL in the Browser dialog to the XYZ tiles layer:  
-https://a.tile.openstreetmap.org/{z}/{x}/{y}.png
-
 Does your data look ugly and incorrect in EPSG:4326? Check this site for an optimal projection:  
 http://projectionwizard.org/  
 
